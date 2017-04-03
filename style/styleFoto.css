@@ -1,0 +1,300 @@
+*{
+    margin: 0;
+    padding: 0;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+
+#slider_box>ul>li {
+    float: left;
+    display: block;
+    height: 100px;
+}
+
+#slider_box>ul {
+    overflow: hidden;
+    width: 1100%;
+}
+
+#slider_box {
+    overflow: hidden;
+    position: relative;
+    left: 100px;
+	margin-top: 30px;
+}
+
+#left_nav {
+    float: left;
+	margin: 0 60px;
+
+	
+}
+
+#nav_slider>div {
+	background-image: url(../images/we.jpg);
+	background-color: #c7b39b;
+    width: 100px;
+    height: 80px;
+}
+
+#right_nav {
+    float: right;
+	margin: 0 30px;
+}
+
+#nav_slider {
+    overflow: hidden;
+    /*position: relative;*/
+    top: -10px;
+}
+
+#slider {
+    overflow: hidden;
+    width: 1280px;
+	margin: 0 auto;
+
+   /* margin: 400px;*/
+}
+
+
+/*Колонки на 3*/
+.row {
+  margin-right: 0x;
+  margin-left: 0px;
+}
+.col-xs-4-1 {
+  width: 130px;
+  overflow: hidden;
+  height: 640px;
+  position: relative;
+  min-height: 1px;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+.col-xs-4-1 {
+  float: left;
+ right:18px;
+}
+
+.col-xs-4-1 {
+  width: 15%;
+}
+
+
+
+.col-xs-4 {
+ /* visibility: hidden;*/
+  position: relative;
+  min-height: 1px;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+.col-xs-4 {
+  float: left;
+}
+
+.col-xs-4 {
+     width: 710px;
+    margin-top: 89px;
+    height: 540px;
+    margin-left: 110px;
+}
+
+
+
+.content111 {
+	width:1200px;
+	height:600px;
+	
+}
+.block111{
+	width: 200px;
+	height: 400px;
+	background-color: red;
+	
+}
+#slider_box1>ul>li {
+    float: left;
+    display: block;
+	margin: 10px;
+	height: 100px;
+}
+
+#slider_box1>ul {
+    overflow: hidden;
+    width: 200px;
+}
+
+#slider_box1 {
+    /*overflow: hidden;*/
+    position: relative;
+    left: 30px;
+	height:560px
+}
+
+
+
+#nav_slider1>div {
+    background-color: blue;
+    width: 30px;
+    height: 50px;
+}
+
+
+
+#nav_slider1 {
+    overflow: hidden;
+    position: relative;
+    top: -80px;
+}
+
+#slider1 {
+    overflow: hidden;
+    width: 200px;
+	position:absolute;
+	height: 560px;
+	/*margin: 0 auto;*/
+
+   /* margin: 400px;*/
+}
+
+
+
+
+#slider_box2>ul>li {
+    float: left;
+    display: block;
+	margin: 10px;
+	height: 100px;
+	
+}
+
+#slider_box2>ul {
+    overflow: hidden;
+    width: 200px;
+	
+}
+
+#slider_box2 {
+  /*  overflow: hidden;*/
+    position: relative;
+    left: 30px;
+}
+
+
+
+#nav_slider2>div {
+    background-color: blue;
+    width: 30px;
+    height: 50px;
+}
+
+
+
+#nav_slider2 {
+    /*overflow: hidden;*/
+    position: relative;
+    top: -80px;
+}
+
+#slider2 {
+    overflow: hidden;
+    width: 200px;
+	float: right;
+	height:600px;
+
+	/*margin: 0 auto;*/
+
+   /* margin: 400px;*/
+}
+
+
+
+
+
+
+
+
+/*a.st .img{width:100px;height:124px;}
+
+a.st .img img{width:100px;height:124px;}
+
+a.st:hover .img{width:100px;height:124px;overflow:visible;visibility:hidden;}
+
+a.st:hover .img img{visibility:visible;position:absolute;z-index:150;}*/
+
+.Anim1 {
+	width:150px;
+	height:100px;
+
+	
+}
+.Anim2 {
+	width:150px;
+	height:100px;
+;
+	
+}
+.Anim3 {
+	width:150px;
+	height:100px;
+
+	
+}
+.Anim4 {
+	width:150px;
+	height:100px;
+
+	
+}
+.Anim5 {
+	width:150px;
+	height:100px;
+	
+}
+.Anim11 {
+	width:150px;
+	height:100px;
+
+	
+}
+.Anim12 {
+	width:150px;
+	height:100px;
+
+	
+}
+.Anim13 {
+	width:150px;
+	height:100px;
+
+	
+}
+.Anim14 {
+	width:150px;
+	height:100px;
+
+	
+}
+.Anim15 {
+	width:150px;
+	height:100px;
+
+}
+
+.like {
+	position: absolute;
+	display: none;
+	
+	
+	
+}
+.error {
+    color: red; /* Цвет символа */
+    font-size: 100%; /* Размер шрифта */
+   } 
+   p {
+    color: rgb(49, 151, 116); /* Цвет текста */
+   }

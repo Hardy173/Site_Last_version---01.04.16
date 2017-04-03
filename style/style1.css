@@ -1,0 +1,86 @@
+﻿
+/*углы*/
+-webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px; 
+}
+
+#content {
+padding : 5px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+margin-right : 225;
+margin-bottom : 1px;
+color : #fff;
+background : #fff;
+/*углы*/
+-webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px; 
+}
+/*админка*/
+#contentik2 {
+
+padding : 5px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+margin-right : 30;
+margin-left: 30;
+margin-bottom : 1px;
+/*углы*/
+-webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px; 
+}
+/*админка*/
+#contentik3 {
+padding : 5px;
+font : bold 115% "Trebuchet MS", verdana, sans-serif;
+margin-right : 103;
+margin-left: 103;
+margin-bottom : 1px;
+color : #555;
+background : #dfd;
+/*углы*/
+-webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px; 
+}
+
+
+
+
+
+/*текст*/
+h1 {
+color : #034F80;
+text-align : center;
+}
+h2 {
+color : #034F80;
+font : bold 115% "Trebuchet MS", verdana, sans-serif;
+text-align : center;
+}
+p {
+font-weight : bold;
+margin:8px;
+font-style : italic;
+color : #b29b35;
+}
+
+
+
+
+
+/*Регистрация*/
+#contentik{
+width:700px;
+height:270px;
+margin-left : auto;
+margin-right : auto;
+padding : 0;
+background : #99CCFF;
+text-align : center;
+/*углы*/
+-webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px; 
+}
